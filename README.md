@@ -1,2 +1,1 @@
-# hello-world
-hello World!
+Im Nathan,and Im just getting in to programming.
